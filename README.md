@@ -38,7 +38,7 @@ When you are initially working on your website, it is very useful to be able to 
     ```bash
     brew install ruby
     brew install node
-    gem install bundler
+    	
     ```
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 
