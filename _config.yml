@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Yang Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Yang Cheng"
   location         : "Earth"
-  employer         : "Something"
+  employer         : "Something on Earth"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cheng297@wisc.edu" 
 
   # Academic websites
   academia         : # URL
